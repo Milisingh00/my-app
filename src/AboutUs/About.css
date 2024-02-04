@@ -1,0 +1,54 @@
+.first-para {
+    display: flex;
+    color: white;
+}
+.first-para-content {
+    display: flex;
+    flex-direction: column;
+    padding-top: 150px;
+    align-items: center;
+    position: relative;
+    right : 150px;
+}
+.first-para-content h1 {
+    color : aqua;
+}
+.first-para-content p {
+    text-align: left;
+}
+.first-para-logo {
+    position: relative;
+    top : 50px;
+}
+.second-para {
+    display: flex;
+    color : white;
+}
+.second-para-content {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    border-radius: 16px;
+    padding :80px 180px ;
+    background-color:   #2F2E2E;
+    
+}
+.second-para-content h1 {
+    color: aqua;
+    font-weight: 400;
+    letter-spacing: 12px;
+}
+.second-para-content p {
+    color: white;
+    text-align: left;
+}
+.second-para-logo2 {
+    position: relative;
+    left : 30px;
+    top:12px;
+}
+.second-para-logo3 {
+    position: relative;
+    top: 380px;
+    right: 180px
+}
